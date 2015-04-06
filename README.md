@@ -1,5 +1,5 @@
 
-#### For OSX added possibility of using external keychain file. 
+##### For OSX possibility of using external keychain file was added. 
 
 #### Originial description
 
