@@ -1,3 +1,8 @@
+
+#### For OSX added possibility of using external keychain file. 
+
+#### Originial description
+
 This project is intended to make using the Mac OSX and iOS Keychains as easy as NSUserDefaults.
 
 It is a KVO-compliant Cocoa wrapper around the  Mac OSX and iOS Keychains, and the model for this wrapper is NSUserDefaults, so the intent is that for the common cases you would normally want to call:
